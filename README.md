@@ -12,14 +12,14 @@ pip2 install requests
 
 pip2 install mechanize
 
-git clone https://github.com/hearthackerBabar/Huntter/
+git clone https://github.com/TechAsghar/malik
 
-cd Huntter
+cd malik
 
-python2 Hunt404.py
+python2 Asghar.py
 
-username:(Facebook)
+username:(Asghar)
 
-password:(Huntter)
+password:(Malik)
 
-Whatsapp Number : 03000223253
+Whatsapp Number 
